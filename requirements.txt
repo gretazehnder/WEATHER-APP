@@ -1,5 +1,5 @@
 streamlit
-geopandas 
+geopandas
 pandas
 matplotlib
 numpy
